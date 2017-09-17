@@ -7,7 +7,7 @@
 \pard\pardeftab720\sl280\partightenfactor0
 
 \f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-# Project 1 - *Flicks*\
+The# Project 1 - *Flicks*\
 \
 **Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).\
 \
